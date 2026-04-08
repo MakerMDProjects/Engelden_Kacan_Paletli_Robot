@@ -1,1 +1,0 @@
-# Engelden Kaçan Paletli Robot
