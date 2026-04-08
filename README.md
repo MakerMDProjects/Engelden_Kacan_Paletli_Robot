@@ -1,5 +1,4 @@
-# 🤖 Engel Algılayan ve Engelden Kaçan Paletli Tank  
-  
+# 🤖 Engel Algılayan ve Engelden Kaçan Paletli Tank    
 Bu projede, ultrasonik sensör kullanarak engelleri algılayan ve yön değiştirerek hareket eden paletli bir robot tasarlanmıştır.
 
 Proje; Arduino Nano, L298N motor sürücü ve HC-SR04 sensör kullanılarak gerçekleştirilmiştir. Hem donanım hem de yazılım tarafı sade ve anlaşılır olacak şekilde hazırlanmıştır.
